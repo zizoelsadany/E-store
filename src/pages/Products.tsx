@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useSearchParams } from 'react-router-dom';
 import { useProducts } from '@/hooks/useProducts';
 import { useCategories } from '@/hooks/useCategories';
@@ -25,7 +25,7 @@ export default function Products() {
       newFilters.category = category;
     }
     setFilters(newFilters);
-    setSearchParams({ ...newFilters });
+    setSearchParams(newFilters as Record<string, string>);
   };
 
   const handlePriceFilter = () => {

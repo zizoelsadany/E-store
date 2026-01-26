@@ -1,13 +1,11 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { useAuthStore } from '@/store/authStore';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import * as orderService from '@/services/orderService';
 import { Order } from '@/types';
 import Loading from '@/components/Loading';
 
 function OrdersContent() {
-  const { user } = useAuthStore();
   const [orders, setOrders] = useState<Order[]>([]);
   const [loading, setLoading] = useState(true);
 

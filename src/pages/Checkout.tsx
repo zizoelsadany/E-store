@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useCartStore } from '@/store/cartStore';
-import { useAuthStore } from '@/store/authStore';
 import ProtectedRoute from '@/components/ProtectedRoute';
 import * as orderService from '@/services/orderService';
 import { Address } from '@/types';
@@ -10,7 +9,6 @@ import toast from 'react-hot-toast';
 function CheckoutContent() {
   const navigate = useNavigate();
   const { items, getTotalPrice, clearCart } = useCartStore();
-  const { user } = useAuthStore();
   const [loading, setLoading] = useState(false);
   const [address, setAddress] = useState<Address>({
     street: '',

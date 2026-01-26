@@ -4,7 +4,6 @@ import { BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, L
 import * as productService from '@/services/productService';
 import * as orderService from '@/services/orderService';
 import * as userService from '@/services/userService';
-import { Product, Order, User } from '@/types';
 import Loading from '@/components/Loading';
 
 export default function AdminDashboard() {
@@ -31,11 +30,11 @@ export default function AdminDashboard() {
         
         // Mock monthly data for charts
         const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'];
-        const revenueByMonth = months.map((month, i) => ({
+        const revenueByMonth = months.map((month) => ({
           month,
           revenue: Math.floor(Math.random() * 10000) + 5000,
         }));
-        const ordersByMonth = months.map((month, i) => ({
+        const ordersByMonth = months.map((month) => ({
           month,
           orders: Math.floor(Math.random() * 50) + 20,
         }));

@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Trash2, Minus, Plus } from 'lucide-react';
 import { useCartStore } from '@/store/cartStore';
-import { useAuthStore } from '@/store/authStore';
 import ProtectedRoute from '@/components/ProtectedRoute';
 
 function CartContent() {
