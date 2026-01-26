@@ -1,0 +1,1611 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life.",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 50,
+      "rating": 4.5,
+      "reviews": 234,
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch Pro",
+      "description": "Feature-rich smartwatch with fitness tracking, heart rate monitor, and GPS.",
+      "price": 249.99,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 30,
+      "rating": 4.7,
+      "reviews": 189,
+      "createdAt": "2024-01-16T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Laptop Backpack",
+      "description": "Durable laptop backpack with multiple compartments and USB charging port.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 75,
+      "rating": 4.3,
+      "reviews": 156,
+      "createdAt": "2024-01-17T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with precision tracking and long battery life.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 100,
+      "rating": 4.4,
+      "reviews": 312,
+      "createdAt": "2024-01-18T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "description": "RGB mechanical keyboard with Cherry MX switches and customizable keys.",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 40,
+      "rating": 4.6,
+      "reviews": 278,
+      "createdAt": "2024-01-19T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "USB-C Hub",
+      "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 60,
+      "rating": 4.2,
+      "reviews": 145,
+      "createdAt": "2024-01-20T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "Gaming Laptop",
+      "description": "High-performance gaming laptop with RTX graphics and 16GB RAM.",
+      "price": 1299.99,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.8,
+      "reviews": 456,
+      "createdAt": "2024-01-21T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Wireless Earbuds",
+      "description": "True wireless earbuds with active noise cancellation and 24h battery.",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 80,
+      "rating": 4.4,
+      "reviews": 321,
+      "createdAt": "2024-01-22T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "name": "4K Monitor",
+      "description": "27-inch 4K UHD monitor with HDR and 144Hz refresh rate.",
+      "price": 399.99,
+      "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 35,
+      "rating": 4.7,
+      "reviews": 198,
+      "createdAt": "2024-01-23T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Webcam HD",
+      "description": "1080p HD webcam with auto-focus and built-in microphone.",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1587825147138-346b23755a4e?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 90,
+      "rating": 4.3,
+      "reviews": 267,
+      "createdAt": "2024-01-24T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "name": "Tablet Stand",
+      "description": "Adjustable aluminum tablet stand for desk and bed use.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 120,
+      "rating": 4.1,
+      "reviews": 134,
+      "createdAt": "2024-01-25T10:00:00Z"
+    },
+    {
+      "id": "12",
+      "name": "Phone Case",
+      "description": "Protective phone case with shock absorption and clear design.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1601972602237-8c79241e468b?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 200,
+      "rating": 4.2,
+      "reviews": 523,
+      "createdAt": "2024-01-26T10:00:00Z"
+    },
+    {
+      "id": "13",
+      "name": "Laptop Stand",
+      "description": "Ergonomic aluminum laptop stand with ventilation slots.",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 65,
+      "rating": 4.5,
+      "reviews": 189,
+      "createdAt": "2024-01-27T10:00:00Z"
+    },
+    {
+      "id": "14",
+      "name": "Wireless Charger",
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 150,
+      "rating": 4.4,
+      "reviews": 312,
+      "createdAt": "2024-01-28T10:00:00Z"
+    },
+    {
+      "id": "15",
+      "name": "Cable Organizer",
+      "description": "Cable management system with adhesive backing and clips.",
+      "price": 12.99,
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 180,
+      "rating": 4,
+      "reviews": 98,
+      "createdAt": "2024-01-29T10:00:00Z"
+    },
+    {
+      "id": "16",
+      "name": "Cotton T-Shirt",
+      "description": "100% organic cotton t-shirt, comfortable and breathable.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 300,
+      "rating": 4.3,
+      "reviews": 445,
+      "createdAt": "2024-01-30T10:00:00Z"
+    },
+    {
+      "id": "17",
+      "name": "Denim Jeans",
+      "description": "Classic fit denim jeans with stretch for comfort.",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 150,
+      "rating": 4.5,
+      "reviews": 378,
+      "createdAt": "2024-02-01T10:00:00Z"
+    },
+    {
+      "id": "18",
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes with cushioned sole and breathable mesh.",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 100,
+      "rating": 4.6,
+      "reviews": 567,
+      "createdAt": "2024-02-02T10:00:00Z"
+    },
+    {
+      "id": "19",
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat with carrying strap, 6mm thickness.",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1601925260368-ae2f83d34dc0?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 80,
+      "rating": 4.4,
+      "reviews": 234,
+      "createdAt": "2024-02-03T10:00:00Z"
+    },
+    {
+      "id": "20",
+      "name": "Dumbbell Set",
+      "description": "Adjustable dumbbell set with weights from 5-25kg per dumbbell.",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 40,
+      "rating": 4.7,
+      "reviews": 156,
+      "createdAt": "2024-02-04T10:00:00Z"
+    },
+    {
+      "id": "21",
+      "name": "Coffee Maker",
+      "description": "Programmable coffee maker with 12-cup capacity and auto-shutoff.",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1517668808823-bac4c58c8a7e?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 60,
+      "rating": 4.5,
+      "reviews": 289,
+      "createdAt": "2024-02-05T10:00:00Z"
+    },
+    {
+      "id": "22",
+      "name": "Desk Lamp",
+      "description": "LED desk lamp with adjustable brightness and color temperature.",
+      "price": 44.99,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 95,
+      "rating": 4.3,
+      "reviews": 201,
+      "createdAt": "2024-02-06T10:00:00Z"
+    },
+    {
+      "id": "23",
+      "name": "Plant Pot Set",
+      "description": "Set of 3 ceramic plant pots with drainage holes and saucers.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 110,
+      "rating": 4.2,
+      "reviews": 167,
+      "createdAt": "2024-02-07T10:00:00Z"
+    },
+    {
+      "id": "24",
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with 360° sound and 20h battery.",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1608043152269-8e0c7c3e4c8a?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 70,
+      "rating": 4.5,
+      "reviews": 412,
+      "createdAt": "2024-02-08T10:00:00Z"
+    },
+    {
+      "id": "25",
+      "name": "External SSD",
+      "description": "1TB external SSD with USB-C, transfer speeds up to 1050MB/s.",
+      "price": 119.99,
+      "image": "https://images.unsplash.com/photo-1591488320449-11ba0e3d6c7f?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 45,
+      "rating": 4.6,
+      "reviews": 234,
+      "createdAt": "2024-02-09T10:00:00Z"
+    },
+    {
+      "id": "26",
+      "name": "Gaming Chair",
+      "description": "Ergonomic gaming chair with lumbar support and adjustable armrests.",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 30,
+      "rating": 4.7,
+      "reviews": 189,
+      "createdAt": "2024-02-10T10:00:00Z"
+    },
+    {
+      "id": "27",
+      "name": "Smartphone",
+      "description": "Latest smartphone with 128GB storage, triple camera, and 5G.",
+      "price": 699.99,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 50,
+      "rating": 4.8,
+      "reviews": 678,
+      "createdAt": "2024-02-11T10:00:00Z"
+    },
+    {
+      "id": "28",
+      "name": "Tablet",
+      "description": "10.2-inch tablet with 64GB storage and stylus support.",
+      "price": 329.99,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 40,
+      "rating": 4.6,
+      "reviews": 345,
+      "createdAt": "2024-02-12T10:00:00Z"
+    },
+    {
+      "id": "29",
+      "name": "Camera Lens",
+      "description": "Professional 50mm f/1.8 camera lens with autofocus.",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.7,
+      "reviews": 156,
+      "createdAt": "2024-02-13T10:00:00Z"
+    },
+    {
+      "id": "30",
+      "name": "Microphone",
+      "description": "USB condenser microphone with pop filter and stand.",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 55,
+      "rating": 4.5,
+      "reviews": 267,
+      "createdAt": "2024-02-14T10:00:00Z"
+    },
+    {
+      "id": "31",
+      "name": "Hoodie",
+      "description": "Warm and comfortable hoodie with front pocket and drawstring.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a4?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 120,
+      "rating": 4.4,
+      "reviews": 389,
+      "createdAt": "2024-02-15T10:00:00Z"
+    },
+    {
+      "id": "32",
+      "name": "Sneakers",
+      "description": "Casual sneakers with cushioned insole and breathable upper.",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 90,
+      "rating": 4.5,
+      "reviews": 456,
+      "createdAt": "2024-02-16T10:00:00Z"
+    },
+    {
+      "id": "33",
+      "name": "Backpack",
+      "description": "Waterproof backpack with laptop compartment and side pockets.",
+      "price": 54.99,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 85,
+      "rating": 4.3,
+      "reviews": 278,
+      "createdAt": "2024-02-17T10:00:00Z"
+    },
+    {
+      "id": "34",
+      "name": "Fitness Tracker",
+      "description": "Activity tracker with heart rate monitor and sleep tracking.",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40f17ca?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 65,
+      "rating": 4.6,
+      "reviews": 423,
+      "createdAt": "2024-02-18T10:00:00Z"
+    },
+    {
+      "id": "35",
+      "name": "Resistance Bands",
+      "description": "Set of 5 resistance bands with different resistance levels.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 140,
+      "rating": 4.2,
+      "reviews": 201,
+      "createdAt": "2024-02-19T10:00:00Z"
+    },
+    {
+      "id": "36",
+      "name": "Air Fryer",
+      "description": "5.5L air fryer with digital display and 8 cooking presets.",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 50,
+      "rating": 4.7,
+      "reviews": 334,
+      "createdAt": "2024-02-20T10:00:00Z"
+    },
+    {
+      "id": "37",
+      "name": "Vacuum Cleaner",
+      "description": "Cordless vacuum cleaner with HEPA filter and 40min runtime.",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 35,
+      "rating": 4.5,
+      "reviews": 267,
+      "createdAt": "2024-02-21T10:00:00Z"
+    },
+    {
+      "id": "38",
+      "name": "Smart Bulb",
+      "description": "WiFi-enabled smart bulb with color changing and app control.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 200,
+      "rating": 4.4,
+      "reviews": 512,
+      "createdAt": "2024-02-22T10:00:00Z"
+    },
+    {
+      "id": "39",
+      "name": "Desk Organizer",
+      "description": "Bamboo desk organizer with multiple compartments for office supplies.",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 100,
+      "rating": 4.3,
+      "reviews": 189,
+      "createdAt": "2024-02-23T10:00:00Z"
+    },
+    {
+      "id": "40",
+      "name": "Power Bank",
+      "description": "20000mAh power bank with fast charging and dual USB ports.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f5cfc5e?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 130,
+      "rating": 4.5,
+      "reviews": 445,
+      "createdAt": "2024-02-24T10:00:00Z"
+    },
+    {
+      "id": "41",
+      "name": "Wireless Keyboard",
+      "description": "Slim wireless keyboard with scissor keys and long battery life.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 75,
+      "rating": 4.4,
+      "reviews": 312,
+      "createdAt": "2024-02-25T10:00:00Z"
+    },
+    {
+      "id": "42",
+      "name": "Monitor Stand",
+      "description": "Adjustable monitor stand with storage drawer and cable management.",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 60,
+      "rating": 4.6,
+      "reviews": 234,
+      "createdAt": "2024-02-26T10:00:00Z"
+    },
+    {
+      "id": "43",
+      "name": "HDMI Cable",
+      "description": "4K HDMI cable 2.0, 6 feet length with gold-plated connectors.",
+      "price": 14.99,
+      "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 250,
+      "rating": 4.2,
+      "reviews": 567,
+      "createdAt": "2024-02-27T10:00:00Z"
+    },
+    {
+      "id": "44",
+      "name": "Laptop Sleeve",
+      "description": "Protective laptop sleeve with padding and front pocket.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 110,
+      "rating": 4.3,
+      "reviews": 201,
+      "createdAt": "2024-02-28T10:00:00Z"
+    },
+    {
+      "id": "45",
+      "name": "Desk Mat",
+      "description": "Large desk mat with smooth surface for mouse and keyboard.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 95,
+      "rating": 4.4,
+      "reviews": 278,
+      "createdAt": "2024-03-01T10:00:00Z"
+    },
+    {
+      "id": "46",
+      "name": "Water Bottle",
+      "description": "Stainless steel water bottle with insulation, keeps drinks cold for 24h.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 180,
+      "rating": 4.5,
+      "reviews": 389,
+      "createdAt": "2024-03-02T10:00:00Z"
+    },
+    {
+      "id": "47",
+      "name": "Gym Bag",
+      "description": "Large gym bag with separate shoe compartment and water bottle pocket.",
+      "price": 44.99,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 70,
+      "rating": 4.3,
+      "reviews": 234,
+      "createdAt": "2024-03-03T10:00:00Z"
+    },
+    {
+      "id": "48",
+      "name": "Jump Rope",
+      "description": "Adjustable speed jump rope with weighted handles and ball bearings.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 160,
+      "rating": 4.1,
+      "reviews": 145,
+      "createdAt": "2024-03-04T10:00:00Z"
+    },
+    {
+      "id": "49",
+      "name": "Kettlebell",
+      "description": "Cast iron kettlebell with ergonomic handle, 20kg weight.",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 45,
+      "rating": 4.6,
+      "reviews": 178,
+      "createdAt": "2024-03-05T10:00:00Z"
+    },
+    {
+      "id": "50",
+      "name": "Wall Clock",
+      "description": "Modern wall clock with silent movement and minimalist design.",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 85,
+      "rating": 4.3,
+      "reviews": 223,
+      "createdAt": "2024-03-06T10:00:00Z"
+    },
+    {
+      "id": "51",
+      "name": "Classic White Shirt",
+      "description": "Premium cotton dress shirt, perfect for formal occasions and business wear.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 200,
+      "rating": 4.6,
+      "reviews": 523,
+      "createdAt": "2024-03-07T10:00:00Z"
+    },
+    {
+      "id": "52",
+      "name": "Casual T-Shirt Pack",
+      "description": "Set of 3 basic t-shirts in various colors, 100% cotton, comfortable fit.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 150,
+      "rating": 4.5,
+      "reviews": 412,
+      "createdAt": "2024-03-08T10:00:00Z"
+    },
+    {
+      "id": "53",
+      "name": "Slim Fit Jeans",
+      "description": "Modern slim-fit jeans with stretch fabric for comfort and style.",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 120,
+      "rating": 4.7,
+      "reviews": 678,
+      "createdAt": "2024-03-09T10:00:00Z"
+    },
+    {
+      "id": "54",
+      "name": "Winter Jacket",
+      "description": "Warm winter jacket with water-resistant outer shell and insulated lining.",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 80,
+      "rating": 4.8,
+      "reviews": 445,
+      "createdAt": "2024-03-10T10:00:00Z"
+    },
+    {
+      "id": "55",
+      "name": "Polo Shirt",
+      "description": "Classic polo shirt with pique fabric, perfect for casual and semi-formal wear.",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1521223890158-f9d7c0a5e5b9?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 180,
+      "rating": 4.4,
+      "reviews": 356,
+      "createdAt": "2024-03-11T10:00:00Z"
+    },
+    {
+      "id": "56",
+      "name": "Chino Pants",
+      "description": "Versatile chino pants in classic khaki, perfect for office and casual wear.",
+      "price": 54.99,
+      "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 100,
+      "rating": 4.6,
+      "reviews": 289,
+      "createdAt": "2024-03-12T10:00:00Z"
+    },
+    {
+      "id": "57",
+      "name": "Sweatshirt",
+      "description": "Comfortable crewneck sweatshirt with soft fleece lining, perfect for lounging.",
+      "price": 44.99,
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a4?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 140,
+      "rating": 4.5,
+      "reviews": 398,
+      "createdAt": "2024-03-13T10:00:00Z"
+    },
+    {
+      "id": "58",
+      "name": "Dress Shirt",
+      "description": "Formal dress shirt with button-down collar, wrinkle-resistant fabric.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1594938291221-94f18dd6d26b?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 110,
+      "rating": 4.7,
+      "reviews": 267,
+      "createdAt": "2024-03-14T10:00:00Z"
+    },
+    {
+      "id": "59",
+      "name": "Cargo Shorts",
+      "description": "Durable cargo shorts with multiple pockets, perfect for outdoor activities.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1506629905607-2c0c0a0b0b0b?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 95,
+      "rating": 4.3,
+      "reviews": 234,
+      "createdAt": "2024-03-15T10:00:00Z"
+    },
+    {
+      "id": "60",
+      "name": "V-Neck T-Shirt",
+      "description": "Stylish V-neck t-shirt in soft cotton, available in multiple colors.",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 220,
+      "rating": 4.4,
+      "reviews": 512,
+      "createdAt": "2024-03-16T10:00:00Z"
+    },
+    {
+      "id": "61",
+      "name": "Leather Jacket",
+      "description": "Classic leather jacket with quilted lining, timeless style and durability.",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 45,
+      "rating": 4.8,
+      "reviews": 389,
+      "createdAt": "2024-03-17T10:00:00Z"
+    },
+    {
+      "id": "62",
+      "name": "Track Pants",
+      "description": "Comfortable track pants with elastic waistband and side stripes.",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1506629905607-2c0c0a0b0b0b?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 130,
+      "rating": 4.5,
+      "reviews": 345,
+      "createdAt": "2024-03-18T10:00:00Z"
+    },
+    {
+      "id": "63",
+      "name": "Button-Down Shirt",
+      "description": "Casual button-down shirt in plaid pattern, perfect for everyday wear.",
+      "price": 42.99,
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 160,
+      "rating": 4.6,
+      "reviews": 423,
+      "createdAt": "2024-03-19T10:00:00Z"
+    },
+    {
+      "id": "64",
+      "name": "Hooded Sweatshirt",
+      "description": "Warm hooded sweatshirt with front kangaroo pocket and adjustable drawstring.",
+      "price": 54.99,
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a4?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 105,
+      "rating": 4.7,
+      "reviews": 567,
+      "createdAt": "2024-03-20T10:00:00Z"
+    },
+    {
+      "id": "65",
+      "name": "Formal Trousers",
+      "description": "Classic formal trousers with crease, perfect for business and formal events.",
+      "price": 64.99,
+      "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 90,
+      "rating": 4.6,
+      "reviews": 298,
+      "createdAt": "2024-03-21T10:00:00Z"
+    },
+    {
+      "id": "66",
+      "name": "Tank Top",
+      "description": "Comfortable tank top in breathable cotton, perfect for summer.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 250,
+      "rating": 4.3,
+      "reviews": 412,
+      "createdAt": "2024-03-22T10:00:00Z"
+    },
+    {
+      "id": "67",
+      "name": "Bomber Jacket",
+      "description": "Stylish bomber jacket with ribbed cuffs and hem, lightweight and versatile.",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 70,
+      "rating": 4.5,
+      "reviews": 334,
+      "createdAt": "2024-03-23T10:00:00Z"
+    },
+    {
+      "id": "68",
+      "name": "Long Sleeve Shirt",
+      "description": "Classic long sleeve shirt in soft cotton, perfect for layering.",
+      "price": 32.99,
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 175,
+      "rating": 4.4,
+      "reviews": 456,
+      "createdAt": "2024-03-24T10:00:00Z"
+    },
+    {
+      "id": "69",
+      "name": "Athletic Shorts",
+      "description": "Performance athletic shorts with moisture-wicking fabric and built-in liner.",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-1506629905607-2c0c0a0b0b0b?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 145,
+      "rating": 4.6,
+      "reviews": 389,
+      "createdAt": "2024-03-25T10:00:00Z"
+    },
+    {
+      "id": "70",
+      "name": "Cardigan Sweater",
+      "description": "Cozy cardigan sweater with button front, perfect for cool weather.",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a4?w=800&h=800&fit=crop",
+      "category": "Clothing",
+      "stock": 85,
+      "rating": 4.7,
+      "reviews": 278,
+      "createdAt": "2024-03-26T10:00:00Z"
+    },
+    {
+      "id": "71",
+      "name": "Gaming Headset",
+      "description": "Professional gaming headset with 7.1 surround sound and RGB lighting.",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 60,
+      "rating": 4.8,
+      "reviews": 523,
+      "createdAt": "2024-03-27T10:00:00Z"
+    },
+    {
+      "id": "72",
+      "name": "Wireless Charging Pad",
+      "description": "Fast wireless charging pad with LED indicator, compatible with all Qi devices.",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 120,
+      "rating": 4.5,
+      "reviews": 412,
+      "createdAt": "2024-03-28T10:00:00Z"
+    },
+    {
+      "id": "73",
+      "name": "Smart TV 55 inch",
+      "description": "4K Ultra HD Smart TV with HDR and voice control, perfect for entertainment.",
+      "price": 599.99,
+      "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.9,
+      "reviews": 678,
+      "createdAt": "2024-03-29T10:00:00Z"
+    },
+    {
+      "id": "74",
+      "name": "Portable Speaker",
+      "description": "Waterproof portable speaker with 360° sound and 24-hour battery life.",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1608043152269-8e0c7c3e4c8a?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 80,
+      "rating": 4.6,
+      "reviews": 445,
+      "createdAt": "2024-03-30T10:00:00Z"
+    },
+    {
+      "id": "75",
+      "name": "Smartphone Case",
+      "description": "Protective smartphone case with shock absorption and clear design.",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1601972602237-8c79241e468b?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 300,
+      "rating": 4.3,
+      "reviews": 567,
+      "createdAt": "2024-03-31T10:00:00Z"
+    },
+    {
+      "id": "76",
+      "name": "Laptop Stand",
+      "description": "Adjustable aluminum laptop stand with ventilation slots for better cooling.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 95,
+      "rating": 4.7,
+      "reviews": 334,
+      "createdAt": "2024-04-01T10:00:00Z"
+    },
+    {
+      "id": "77",
+      "name": "Wireless Earbuds Pro",
+      "description": "Premium wireless earbuds with active noise cancellation and transparency mode.",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 50,
+      "rating": 4.8,
+      "reviews": 612,
+      "createdAt": "2024-04-02T10:00:00Z"
+    },
+    {
+      "id": "78",
+      "name": "Desk Lamp LED",
+      "description": "Modern LED desk lamp with adjustable brightness and color temperature control.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 110,
+      "rating": 4.5,
+      "reviews": 389,
+      "createdAt": "2024-04-03T10:00:00Z"
+    },
+    {
+      "id": "79",
+      "name": "Fitness Smartwatch",
+      "description": "Advanced fitness smartwatch with GPS, heart rate monitor, and sleep tracking.",
+      "price": 179.99,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 45,
+      "rating": 4.7,
+      "reviews": 456,
+      "createdAt": "2024-04-04T10:00:00Z"
+    },
+    {
+      "id": "80",
+      "name": "Wireless Keyboard & Mouse Set",
+      "description": "Ergonomic wireless keyboard and mouse combo with long battery life.",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 70,
+      "rating": 4.6,
+      "reviews": 423,
+      "createdAt": "2024-04-05T10:00:00Z"
+    },
+    {
+      "id": "81",
+      "name": "Action Camera",
+      "description": "4K action camera with waterproof housing and image stabilization.",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 40,
+      "rating": 4.7,
+      "reviews": 389,
+      "createdAt": "2024-04-06T10:00:00Z"
+    },
+    {
+      "id": "82",
+      "name": "Wireless Router",
+      "description": "High-speed WiFi 6 router with mesh support and advanced security features.",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 55,
+      "rating": 4.6,
+      "reviews": 456,
+      "createdAt": "2024-04-07T10:00:00Z"
+    },
+    {
+      "id": "83",
+      "name": "Smart Doorbell",
+      "description": "Video doorbell with motion detection, night vision, and smartphone app.",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 35,
+      "rating": 4.8,
+      "reviews": 523,
+      "createdAt": "2024-04-08T10:00:00Z"
+    },
+    {
+      "id": "84",
+      "name": "Electric Toothbrush",
+      "description": "Sonic electric toothbrush with multiple cleaning modes and timer.",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f5cfc5e?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 100,
+      "rating": 4.5,
+      "reviews": 678,
+      "createdAt": "2024-04-09T10:00:00Z"
+    },
+    {
+      "id": "85",
+      "name": "Wireless Gaming Controller",
+      "description": "Ergonomic wireless gaming controller with customizable buttons and RGB lighting.",
+      "price": 69.99,
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 75,
+      "rating": 4.7,
+      "reviews": 412,
+      "createdAt": "2024-04-10T10:00:00Z"
+    },
+    {
+      "id": "86",
+      "name": "Smart Thermostat",
+      "description": "WiFi-enabled smart thermostat with learning capabilities and energy savings.",
+      "price": 249.99,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 50,
+      "rating": 4.8,
+      "reviews": 567,
+      "createdAt": "2024-04-11T10:00:00Z"
+    },
+    {
+      "id": "87",
+      "name": "Drone with Camera",
+      "description": "4K drone with GPS, obstacle avoidance, and 30-minute flight time.",
+      "price": 499.99,
+      "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 20,
+      "rating": 4.9,
+      "reviews": 234,
+      "createdAt": "2024-04-12T10:00:00Z"
+    },
+    {
+      "id": "88",
+      "name": "Wireless Printer",
+      "description": "All-in-one wireless printer with scanning, copying, and mobile printing.",
+      "price": 129.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 45,
+      "rating": 4.4,
+      "reviews": 345,
+      "createdAt": "2024-04-13T10:00:00Z"
+    },
+    {
+      "id": "89",
+      "name": "Smart Scale",
+      "description": "Body composition scale with app connectivity and multiple metrics tracking.",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 90,
+      "rating": 4.6,
+      "reviews": 512,
+      "createdAt": "2024-04-14T10:00:00Z"
+    },
+    {
+      "id": "90",
+      "name": "Security Camera System",
+      "description": "4-camera security system with night vision and mobile app access.",
+      "price": 399.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 30,
+      "rating": 4.7,
+      "reviews": 289,
+      "createdAt": "2024-04-15T10:00:00Z"
+    },
+    {
+      "id": "91",
+      "name": "Wireless Car Charger",
+      "description": "Fast wireless car charger with auto-clamping and phone detection.",
+      "price": 39.99,
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f5cfc5e?w=800&h=800&fit=crop",
+      "category": "Accessories",
+      "stock": 150,
+      "rating": 4.5,
+      "reviews": 623,
+      "createdAt": "2024-04-16T10:00:00Z"
+    },
+    {
+      "id": "92",
+      "name": "Smart Lock",
+      "description": "Keyless smart lock with fingerprint, PIN, and app control.",
+      "price": 179.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 40,
+      "rating": 4.8,
+      "reviews": 445,
+      "createdAt": "2024-04-17T10:00:00Z"
+    },
+    {
+      "id": "93",
+      "name": "Portable Projector",
+      "description": "Mini portable projector with 1080p resolution and built-in speakers.",
+      "price": 199.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 35,
+      "rating": 4.6,
+      "reviews": 278,
+      "createdAt": "2024-04-18T10:00:00Z"
+    },
+    {
+      "id": "94",
+      "name": "Wireless Soundbar",
+      "description": "5.1 channel wireless soundbar with subwoofer and Bluetooth connectivity.",
+      "price": 299.99,
+      "image": "https://images.unsplash.com/photo-1608043152269-8e0c7c3e4c8a?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.8,
+      "reviews": 389,
+      "createdAt": "2024-04-19T10:00:00Z"
+    },
+    {
+      "id": "95",
+      "name": "Smart Mirror",
+      "description": "LED smart mirror with touch control and weather display.",
+      "price": 349.99,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 20,
+      "rating": 4.7,
+      "reviews": 156,
+      "createdAt": "2024-04-20T10:00:00Z"
+    },
+    {
+      "id": "96",
+      "name": "Wireless Bike Computer",
+      "description": "GPS bike computer with heart rate monitor and route tracking.",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=800&fit=crop",
+      "category": "Sports",
+      "stock": 60,
+      "rating": 4.6,
+      "reviews": 312,
+      "createdAt": "2024-04-21T10:00:00Z"
+    },
+    {
+      "id": "97",
+      "name": "Smart Refrigerator",
+      "description": "Energy-efficient smart refrigerator with touchscreen and app control.",
+      "price": 1299.99,
+      "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 15,
+      "rating": 4.9,
+      "reviews": 89,
+      "createdAt": "2024-04-22T10:00:00Z"
+    },
+    {
+      "id": "98",
+      "name": "Wireless VR Headset",
+      "description": "Standalone VR headset with 6DOF tracking and high-resolution display.",
+      "price": 399.99,
+      "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 30,
+      "rating": 4.7,
+      "reviews": 234,
+      "createdAt": "2024-04-23T10:00:00Z"
+    },
+    {
+      "id": "99",
+      "name": "Smart Coffee Maker",
+      "description": "Programmable smart coffee maker with app control and scheduling.",
+      "price": 179.99,
+      "image": "https://images.unsplash.com/photo-1517668808823-bac4c58c8a7e?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 55,
+      "rating": 4.8,
+      "reviews": 567,
+      "createdAt": "2024-04-24T10:00:00Z"
+    },
+    {
+      "id": "100",
+      "name": "Wireless Security System",
+      "description": "Complete wireless home security system with sensors and monitoring.",
+      "price": 499.99,
+      "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=800&fit=crop",
+      "category": "Electronics",
+      "stock": 25,
+      "rating": 4.9,
+      "reviews": 178,
+      "createdAt": "2024-04-25T10:00:00Z"
+    },
+    {
+      "name": "Smart Coffee Maker",
+      "description": "Programmable smart coffee maker with app control and scheduling",
+      "price": 179.99,
+      "image": "https://images.unsplash.com/photo-1517668808823-bac4c58c8a7e?w=800&h=800&fit=crop",
+      "category": "Home & Garden",
+      "stock": 25,
+      "rating": 0,
+      "reviews": 0,
+      "id": "SJPlFZy"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Electronics",
+      "slug": "electronics"
+    },
+    {
+      "id": "2",
+      "name": "Accessories",
+      "slug": "accessories"
+    },
+    {
+      "id": "3",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    {
+      "id": "4",
+      "name": "Home & Garden",
+      "slug": "home-garden"
+    },
+    {
+      "id": "5",
+      "name": "Sports",
+      "slug": "sports"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": "2",
+      "items": [
+        {
+          "productId": "1",
+          "productName": "Wireless Bluetooth Headphones",
+          "price": 99.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "5",
+          "productName": "Mechanical Keyboard",
+          "price": 129.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 229.98,
+      "status": "delivered",
+      "shippingAddress": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "zipCode": "10001",
+        "country": "USA"
+      },
+      "paymentMethod": "card",
+      "createdAt": "2024-01-20T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "userId": "3",
+      "items": [
+        {
+          "productId": "16",
+          "productName": "Cotton T-Shirt",
+          "price": 24.99,
+          "quantity": 3,
+          "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "17",
+          "productName": "Denim Jeans",
+          "price": 59.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 134.96,
+      "status": "shipped",
+      "shippingAddress": {
+        "street": "456 Oak Avenue",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipCode": "90001",
+        "country": "USA"
+      },
+      "paymentMethod": "paypal",
+      "createdAt": "2024-01-22T14:30:00Z"
+    },
+    {
+      "id": "3",
+      "userId": "4",
+      "items": [
+        {
+          "productId": "2",
+          "productName": "Smart Watch Pro",
+          "price": 249.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 249.99,
+      "status": "processing",
+      "shippingAddress": {
+        "street": "789 Pine Road",
+        "city": "Chicago",
+        "state": "IL",
+        "zipCode": "60601",
+        "country": "USA"
+      },
+      "paymentMethod": "card",
+      "createdAt": "2024-01-25T09:15:00Z"
+    },
+    {
+      "id": "4",
+      "userId": "5",
+      "items": [
+        {
+          "productId": "31",
+          "productName": "Hoodie",
+          "price": 49.99,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a4?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "32",
+          "productName": "Sneakers",
+          "price": 79.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 179.97,
+      "status": "pending",
+      "shippingAddress": {
+        "street": "321 Elm Street",
+        "city": "Houston",
+        "state": "TX",
+        "zipCode": "77001",
+        "country": "USA"
+      },
+      "paymentMethod": "cod",
+      "createdAt": "2024-01-26T16:45:00Z"
+    },
+    {
+      "id": "5",
+      "userId": "6",
+      "items": [
+        {
+          "productId": "7",
+          "productName": "Gaming Laptop",
+          "price": 1299.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "9",
+          "productName": "4K Monitor",
+          "price": 399.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 1699.98,
+      "status": "delivered",
+      "shippingAddress": {
+        "street": "654 Maple Drive",
+        "city": "Miami",
+        "state": "FL",
+        "zipCode": "33101",
+        "country": "USA"
+      },
+      "paymentMethod": "card",
+      "createdAt": "2024-01-18T11:20:00Z"
+    },
+    {
+      "id": "6",
+      "userId": "7",
+      "items": [
+        {
+          "productId": "51",
+          "productName": "Classic White Shirt",
+          "price": 39.99,
+          "quantity": 2,
+          "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "58",
+          "productName": "Dress Shirt",
+          "price": 49.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1594938291221-94f18dd6d26b?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "65",
+          "productName": "Formal Trousers",
+          "price": 64.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 194.96,
+      "status": "shipped",
+      "shippingAddress": {
+        "street": "987 Cedar Lane",
+        "city": "Seattle",
+        "state": "WA",
+        "zipCode": "98101",
+        "country": "USA"
+      },
+      "paymentMethod": "paypal",
+      "createdAt": "2024-01-24T13:10:00Z"
+    },
+    {
+      "id": "7",
+      "userId": "8",
+      "items": [
+        {
+          "productId": "18",
+          "productName": "Running Shoes",
+          "price": 89.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "34",
+          "productName": "Fitness Tracker",
+          "price": 99.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1579586337278-3befd40f17ca?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 189.98,
+      "status": "processing",
+      "shippingAddress": {
+        "street": "147 Birch Boulevard",
+        "city": "Boston",
+        "state": "MA",
+        "zipCode": "02101",
+        "country": "USA"
+      },
+      "paymentMethod": "card",
+      "createdAt": "2024-01-27T10:30:00Z"
+    },
+    {
+      "userId": "current-user-id",
+      "items": [
+        {
+          "productId": "7",
+          "productName": "Gaming Laptop",
+          "price": 1299.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 1299.99,
+      "status": "pending",
+      "shippingAddress": {
+        "street": "zizoelsadany5@gmail.com",
+        "city": "Zi",
+        "state": "14",
+        "zipCode": "44444",
+        "country": "Mauritius"
+      },
+      "paymentMethod": "card",
+      "id": "bQzeGjc"
+    },
+    {
+      "userId": "current-user-id",
+      "items": [
+        {
+          "productId": "8",
+          "productName": "Wireless Earbuds",
+          "price": 79.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "7",
+          "productName": "Gaming Laptop",
+          "price": 1299.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=800&fit=crop"
+        },
+        {
+          "productId": "6",
+          "productName": "USB-C Hub",
+          "price": 39.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 1419.97,
+      "status": "pending",
+      "shippingAddress": {
+        "street": "kafr Sudan",
+        "city": "Kafr el-Sheikh",
+        "state": "ؤؤؤؤؤؤؤؤؤؤؤ",
+        "zipCode": "ؤؤؤؤؤؤؤؤ",
+        "country": "Egypt"
+      },
+      "paymentMethod": "cod",
+      "id": "bX3yc-j"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "name": "Admin User",
+      "role": "admin",
+      "createdAt": "2024-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "email": "user@example.com",
+      "name": "John Doe",
+      "role": "user",
+      "createdAt": "2024-01-05T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "email": "sarah.johnson@example.com",
+      "name": "Sarah Johnson",
+      "role": "user",
+      "createdAt": "2024-01-10T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "email": "michael.brown@example.com",
+      "name": "Michael Brown",
+      "role": "user",
+      "createdAt": "2024-01-12T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "email": "emily.davis@example.com",
+      "name": "Emily Davis",
+      "role": "user",
+      "createdAt": "2024-01-15T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "email": "david.wilson@example.com",
+      "name": "David Wilson",
+      "role": "user",
+      "createdAt": "2024-01-18T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "email": "lisa.martinez@example.com",
+      "name": "Lisa Martinez",
+      "role": "user",
+      "createdAt": "2024-01-20T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "email": "james.taylor@example.com",
+      "name": "James Taylor",
+      "role": "user",
+      "createdAt": "2024-01-22T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "email": "anna.anderson@example.com",
+      "name": "Anna Anderson",
+      "role": "user",
+      "createdAt": "2024-01-25T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "email": "robert.thomas@example.com",
+      "name": "Robert Thomas",
+      "role": "user",
+      "createdAt": "2024-01-28T10:00:00Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "name": "Admin User",
+      "role": "admin",
+      "createdAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "email": "user@example.com",
+      "password": "user123",
+      "name": "John Doe",
+      "role": "user",
+      "createdAt": "2024-01-02T00:00:00Z"
+    }
+  ]
+}
