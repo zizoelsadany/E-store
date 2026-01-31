@@ -1516,78 +1516,29 @@
       },
       "paymentMethod": "cod",
       "id": "bX3yc-j"
-    }
-  ],
-  "users": [
-    {
-      "id": "1",
-      "email": "admin@example.com",
-      "name": "Admin User",
-      "role": "admin",
-      "createdAt": "2024-01-01T10:00:00Z"
     },
     {
-      "id": "2",
-      "email": "user@example.com",
-      "name": "John Doe",
-      "role": "user",
-      "createdAt": "2024-01-05T10:00:00Z"
-    },
-    {
-      "id": "3",
-      "email": "sarah.johnson@example.com",
-      "name": "Sarah Johnson",
-      "role": "user",
-      "createdAt": "2024-01-10T10:00:00Z"
-    },
-    {
-      "id": "4",
-      "email": "michael.brown@example.com",
-      "name": "Michael Brown",
-      "role": "user",
-      "createdAt": "2024-01-12T10:00:00Z"
-    },
-    {
-      "id": "5",
-      "email": "emily.davis@example.com",
-      "name": "Emily Davis",
-      "role": "user",
-      "createdAt": "2024-01-15T10:00:00Z"
-    },
-    {
-      "id": "6",
-      "email": "david.wilson@example.com",
-      "name": "David Wilson",
-      "role": "user",
-      "createdAt": "2024-01-18T10:00:00Z"
-    },
-    {
-      "id": "7",
-      "email": "lisa.martinez@example.com",
-      "name": "Lisa Martinez",
-      "role": "user",
-      "createdAt": "2024-01-20T10:00:00Z"
-    },
-    {
-      "id": "8",
-      "email": "james.taylor@example.com",
-      "name": "James Taylor",
-      "role": "user",
-      "createdAt": "2024-01-22T10:00:00Z"
-    },
-    {
-      "id": "9",
-      "email": "anna.anderson@example.com",
-      "name": "Anna Anderson",
-      "role": "user",
-      "createdAt": "2024-01-25T10:00:00Z"
-    },
-    {
-      "id": "10",
-      "email": "robert.thomas@example.com",
-      "name": "Robert Thomas",
-      "role": "user",
-      "createdAt": "2024-01-28T10:00:00Z"
+      "userId": "current-user-id",
+      "items": [
+        {
+          "productId": "2",
+          "productName": "Smart Watch Pro",
+          "price": 249.99,
+          "quantity": 1,
+          "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop"
+        }
+      ],
+      "total": 249.99,
+      "status": "pending",
+      "shippingAddress": {
+        "street": "zizoelsadany5@gmail.com",
+        "city": "Zi",
+        "state": "1",
+        "zipCode": "1",
+        "country": "Mauritius"
+      },
+      "paymentMethod": "card",
+      "id": "nz8mDj-"
     }
   ],
   "users": [
