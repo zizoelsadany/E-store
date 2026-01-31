@@ -1607,5 +1607,18 @@
       "role": "user",
       "createdAt": "2024-01-02T00:00:00Z"
     }
-  ]
+  ],
+  "auth": {
+    "login": {
+      "email": "admin@example.com",
+      "password": "admin123",
+      "token": "mock-admin-token",
+      "user": {
+        "id": "1",
+        "email": "admin@example.com",
+        "name": "Admin User",
+        "role": "admin"
+      }
+    }
+  }
 }
