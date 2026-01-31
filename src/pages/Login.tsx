@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import { useAuthStore } from '@/store/authStore';
 import toast from 'react-hot-toast';
 
@@ -96,46 +96,7 @@ export default function Login() {
             >
               {loading ? 'Signing in...' : 'Sign In'}
             </button>
-
-            <div className="relative">
-              <div className="absolute inset-0 flex items-center">
-                <div className="w-full border-t border-gray-300 dark:border-slate-600"></div>
-              </div>
-              <div className="relative flex justify-center text-sm">
-                <span className="px-2 bg-white dark:bg-slate-800 text-gray-500 dark:text-slate-400">or</span>
-              </div>
-            </div>
-
-            <Link
-              to="/register"
-              className="w-full py-2.5 px-4 border-2 border-amazon-orange text-amazon-orange font-bold rounded-lg hover:bg-orange-50 dark:hover:bg-slate-700 transition duration-300 block text-center"
-            >
-              Create New Account
-            </Link>
           </form>
-
-          <div className="bg-gradient-to-r from-amber-50 to-orange-50 dark:from-slate-700 dark:to-slate-700 rounded-lg p-4 border-2 border-amber-200 dark:border-orange-500">
-            <div className="flex items-start gap-3">
-              <span className="text-xl flex-shrink-0">🔑</span>
-              <div className="flex-1">
-                <p className="text-sm font-bold text-amber-900 dark:text-amber-100 mb-2">Demo Credentials:</p>
-                <div className="space-y-1.5 text-xs">
-                  <p className="text-amber-800 dark:text-amber-200">
-                    <span className="font-semibold">👨‍💼 Admin:</span> 
-                    <code className="bg-amber-100 dark:bg-slate-800 px-2 py-1 rounded ml-1 font-mono">admin@example.com</code>
-                    <code className="bg-amber-100 dark:bg-slate-800 px-2 py-1 rounded ml-1 font-mono">/</code>
-                    <code className="bg-amber-100 dark:bg-slate-800 px-2 py-1 rounded ml-1 font-mono">admin123</code>
-                  </p>
-                  <p className="text-amber-800 dark:text-amber-200">
-                    <span className="font-semibold">👤 User:</span> 
-                    <code className="bg-amber-100 dark:bg-slate-800 px-2 py-1 rounded ml-1 font-mono">user@example.com</code>
-                    <code className="bg-amber-100 dark:bg-slate-800 px-2 py-1 rounded ml-1 font-mono">/</code>
-                    <code className="bg-amber-100 dark:bg-slate-800 px-2 py-1 rounded ml-1 font-mono">user123</code>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
     </div>
