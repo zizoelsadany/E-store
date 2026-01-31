@@ -51,7 +51,7 @@ export default function Products() {
       <div className="flex flex-col lg:flex-row gap-8">
         {/* Sidebar Filters */}
         <aside className="lg:w-64 flex-shrink-0">
-          <div className="bg-white dark:bg-slate-800 p-6 rounded-lg shadow-md dark:shadow-dark-md h-fit sticky top-20 transition-colors">
+          <div className="bg-white dark:bg-slate-800 p-6 rounded-lg shadow-md dark:shadow-dark-md h-fit sticky top-20 transition-colors lg:block hidden">
             <h2 className="text-xl font-bold text-primary mb-6 flex items-center gap-2">
               <span className="w-1 h-6 bg-amazon-orange rounded-full"></span>
               Filters
@@ -85,7 +85,7 @@ export default function Products() {
                     <span className="ml-3 text-secondary group-hover:text-amazon-orange transition duration-300">{cat.name}</span>
                   </label>
                 ))}
-            </div>
+              </div>
             </div>
 
             {/* Price Range */}
@@ -120,6 +120,63 @@ export default function Products() {
               className="w-full text-amazon-orange hover:text-orange-600 font-semibold transition duration-300 py-2.5"
             >
               ✕ Clear All Filters
+            </button>
+          </div>
+
+          {/* Mobile Filters */}
+          <div className="lg:hidden bg-white dark:bg-slate-800 p-4 rounded-lg shadow-md dark:shadow-dark-md mb-6">
+            <h2 className="text-lg font-bold text-primary mb-4 flex items-center gap-2">
+              <span className="w-1 h-6 bg-amazon-orange rounded-full"></span>
+              Filters
+            </h2>
+            
+            {/* Mobile Categories */}
+            <div className="mb-6">
+              <h3 className="font-bold text-primary mb-3">Category</h3>
+              <select
+                value={filters.category || 'all'}
+                onChange={(e) => handleCategoryChange(e.target.value)}
+                className="w-full px-3 py-2 border border-gray-300 dark:border-slate-600 dark:bg-slate-700 dark:text-slate-100 rounded-lg focus:outline-none focus:ring-2 focus:ring-amazon-orange"
+              >
+                <option value="all">All Categories</option>
+                {categories.map((cat) => (
+                  <option key={cat.id} value={cat.name}>{cat.name}</option>
+                ))}
+              </select>
+            </div>
+
+            {/* Mobile Price Range */}
+            <div className="mb-6">
+              <h3 className="font-bold text-primary mb-3">Price Range</h3>
+              <div className="grid grid-cols-2 gap-2 mb-3">
+                <input
+                  type="number"
+                  placeholder="Min"
+                  value={priceRange.min}
+                  onChange={(e) => setPriceRange({ ...priceRange, min: e.target.value })}
+                  className="px-3 py-2 border border-gray-300 dark:border-slate-600 dark:bg-slate-700 dark:text-slate-100 rounded-lg focus:outline-none focus:ring-2 focus:ring-amazon-orange"
+                />
+                <input
+                  type="number"
+                  placeholder="Max"
+                  value={priceRange.max}
+                  onChange={(e) => setPriceRange({ ...priceRange, max: e.target.value })}
+                  className="px-3 py-2 border border-gray-300 dark:border-slate-600 dark:bg-slate-700 dark:text-slate-100 rounded-lg focus:outline-none focus:ring-2 focus:ring-amazon-orange"
+                />
+              </div>
+              <button
+                onClick={handlePriceFilter}
+                className="w-full bg-amazon-orange hover:bg-orange-600 text-white py-2 rounded-lg transition duration-300 font-semibold"
+              >
+                Apply
+              </button>
+            </div>
+
+            <button
+              onClick={clearFilters}
+              className="w-full text-amazon-orange hover:text-orange-600 font-semibold transition duration-300 py-2"
+            >
+              ✕ Clear Filters
             </button>
           </div>
         </aside>
